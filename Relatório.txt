@@ -1,0 +1,31 @@
+
+ESTUDO DO DRONE:
+
+Def.:
+*Roll* (Rolo) ocorre em torno do eixo longitudinal da aeronave (geralmente o eixo x),
+mudando a inclinação da aeronave de uma asa para outra.
+
+*Pitch* (Arfagem) ocorre em torno do eixo lateral da aeronave (geralmente o eixo y), 
+mudando a inclinação do nariz da aeronave para cima ou para baixo.
+
+*Yaw* (Guinada) ocorre em torno do eixo vertical da aeronave (geralmente o eixo z),
+girando a aeronave para a esquerda ou para a direita.
+
+- Componentes Utilizados:
+	
+	- ESP32
+	- MPU6050
+	- Motores
+	- Controle.
+
+Filtro de Kalman
+
+- algorítmo otimizado que funciona para prever o estado de um sistema dinâmico a partir de medições ruidosas.
+
+
+PID
+-
+
+
+CONTROLE
+-

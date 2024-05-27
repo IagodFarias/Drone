@@ -97,6 +97,11 @@ void Drone::MainControlSetup(int serial, int pin1, int pin2, int pin3, int pin4)
 	MPUconfigSetup();
 	CalibrarMPU();
 }
+
+
+
+// FUNÇÃO DE CONTROLE DE VOO DO DRONE
+
 //********************************************************************************************************
 void Drone::MainControlLoop(int pinPWM_Read1, int pinPWM_Read2, int pinPWM_Read3, int pinPWM_Read4){
 	
