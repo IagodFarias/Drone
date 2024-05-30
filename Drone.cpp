@@ -3,6 +3,7 @@
 // Arduino Guide: https://randomnerdtutorials.com/arduino-mpu-6050-accelerometer-gyroscope/
 #include "Drone.h"
 
+
 //*******************************ORGANIZAÇÃO DAS VARIÁVEIS NECESSÁRIAS******************************************
 int MotorVeloci1, MotorVeloci2, MotorVeloci3, MotorVeloci4; // Variáveis de controle da velocidade dos motores
 
