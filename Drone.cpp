@@ -2,6 +2,7 @@
 // ESP8266 Guide: https://randomnerdtutorials.com/esp8266-nodemcu-mpu-6050-accelerometer-gyroscope-arduino/
 // Arduino Guide: https://randomnerdtutorials.com/arduino-mpu-6050-accelerometer-gyroscope/
 #include "Drone.h"
+#include "esp32-hal-ledc.h"
 
 
 //*******************************ORGANIZAÇÃO DAS VARIÁVEIS NECESSÁRIAS******************************************
